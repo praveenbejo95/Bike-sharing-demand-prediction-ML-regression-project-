@@ -70,9 +70,12 @@ Statsmodels:- Statsmodels is a Python module that provides classes and functions
       Gradient Boosting
       XGBoost
       
-      **conclusions:**
+   
+   
+**conclusions:**
       
-   1. No overfitting is seen.
+      
+ 1. No overfitting is seen.
 
 2. From above its clear that Gradient Boosting regressor(CV) model is the best model for this dataset.
 
