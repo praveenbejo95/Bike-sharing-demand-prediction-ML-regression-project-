@@ -1,4 +1,4 @@
-**Seoul-Bike-Sharing-Demand-Prediction**
+# **Seoul-Bike-Sharing-Demand-Prediction**
 
 
 This project will be explored over the previous data in order to predict the number of bikes that can be rented per hour by the company. So that customers can get the best experience without any delays. We will build different regression models and check which proves to be the best for the deployment.
